@@ -11,4 +11,4 @@ elif number == 4:
 elif number == 5:
     print("You have won a house")
 else:
-    print("Invalid number entered")
+    print("invalid number entered")
