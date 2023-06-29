@@ -1,7 +1,7 @@
 https://justpaste.it/atap5
-1.git init
-2.git config user.email "kwambokasheilah45@gmail.com"
-3.git add .
-4.git commit -m "first commit"
-5. replace with yours - git remote add origin https://github.com/sheilaheng/devsheilah.git
-6.git push -u origin master
+git init
+git config user.email "kwambokasheilah45@gmail.com"
+git add .
+git commit -m "first commit"
+replace with yours - git remote add origin https://github.com/sheilaheng/devsheilah.git
+git push -u origin master
