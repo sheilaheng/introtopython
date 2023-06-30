@@ -3,5 +3,5 @@ git init
 git config user.email "kwambokasheilah45@gmail.com"
 git add .
 git commit -m "first commit"
-replace with yours - git remote add origin https://github.com/sheilaheng/devsheilah.git
+replace with yours - git remote add origin https://github.com/sheilaheng/into2python.git
 git push -u origin master
