@@ -1,0 +1,11 @@
+#Create another table Student
+
+1.Have the following fields
+     name
+     phone
+     age
+     gender
+     studentcode
+    -------Student created successfully-----
+
+2. Display the students created
